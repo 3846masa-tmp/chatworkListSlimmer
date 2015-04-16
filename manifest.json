@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "chatworkListSlimer",
+  "name": "chatworkListSlimmer",
   "version": "0.1",
 
   "description": "Chatworkの左側を縦にスリム化する拡張機能",
