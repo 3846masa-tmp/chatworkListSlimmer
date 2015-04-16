@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "chatworkListSlimer",
+  "version": "0.1",
+
+  "description": "Chatworkの左側を縦にスリム化する拡張機能",
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.chatwork.com/*"],
+      "css": ["style.css"]
+    }
+  ]
+
+}

@@ -1,0 +1,8 @@
+li._roomLink._room {
+  font-size: 50%;
+  min-height: 18px;
+  max-height: 18px;
+}
+li._roomLink._room img {
+  transform: scale(0.5) translate(-50%, -50%);
+}
